@@ -17,8 +17,12 @@ Static Web App  by using the azure technology and resources which are given to m
 
 
 GIF Search
-Note: You need to refresh page to search for next GIF once you have done searching it
+
+
 Welcome RITESH JAIPRAKASH AGRAWAL
+
+Note: You need to refresh page to search for next GIF once you have done searching it
+
 This a Project for Future Ready Talent
 
 
